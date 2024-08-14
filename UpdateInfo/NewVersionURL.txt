@@ -1,1 +1,2 @@
-https://github.com/Lipus-TRW/Taurus-UI/raw/main/System/System.ppsm
+这是新版本的整个系统包下载链接。
+注意：在下载系统包后，请把旧版的所有系统资源全部删除。
