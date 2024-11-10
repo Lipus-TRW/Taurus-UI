@@ -1,0 +1,2 @@
+2.9.5 Hydrogen Official 更新：
+1、对 Taurus UI 2 Hydrogen 的更新政策作出调整：默认更新渠道仍会接收 2 代版本的更新，用户若要更新到 Taurus UI 3 Camelot，可通过更新界面下方的抢先链接进行更新。
