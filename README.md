@@ -1,5 +1,5 @@
 # Taurus-UI
-A PowerPoint UI based on Tuling.
+A PowerPoint OS based on Tuling.
 
 ### Taurus UI 使用许可协议
 LIPUS STUDIO <br/>
