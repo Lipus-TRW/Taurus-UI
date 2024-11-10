@@ -2,9 +2,9 @@
 A PowerPoint UI based on Tuling.
 
 ### Taurus UI 使用许可协议
-LIPUS STUDIO
-最新更新日期：2024 年 9 月 2 日
-感谢使用 Taurus UI !
+LIPUS STUDIO <br/>
+最新更新日期：2024 年 9 月 2 日 <br/>
+感谢使用 Taurus UI ! <br/>
 
 #### 基本信息
 Taurus UI 是基于 Tuling 开发的 PPT 仿操作系统。
