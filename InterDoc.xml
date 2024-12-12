@@ -2826,9 +2826,9 @@
     <EN_US>Tuling Development Team</EN_US>
   </TextBlock>
 <TextBlock id ="471">
-    <ZH_CN>随便了</ZH_CN>
-    <ZH_TW>隨便了</ZH_TW>
-    <ZH_WENYAN>无谓罢</ZH_WENYAN>
-    <EN_US>Whatever</EN_US>
+    <ZH_CN>问: 本地文档打开乱码是怎么回事？ 答：因为VBA只支持ANSI编码，如果是其他编码文件请自行转换</ZH_CN>
+    <ZH_TW>問: 本地文檔打開亂碼是怎麼回事？ 答：因為VBA只支援ANSI編碼，如果是其他編碼檔請自行轉換</ZH_TW>
+    <ZH_WENYAN>问: 本地之文档启而见乱码，何也？答：盖 VBA 唯持 ANSI 编码，若为他编码之文件，烦请自行转换焉。</ZH_WENYAN>
+    <EN_US>Q: Why does the local document appear as garbage codes when opened? A: Because VBA only supports ANSI encoding. If it is a file in other encodings, please convert it by yourself.</EN_US>
   </TextBlock>
 </DocRoot>
