@@ -2837,4 +2837,28 @@
     <ZH_WENYAN>步入新世...</ZH_WENYAN>
     <EN_US>Enter the new world...</EN_US>
   </TextBlock>
+<TextBlock id ="473">
+    <ZH_CN>访问「新秩生态」</ZH_CN>
+    <ZH_TW>訪問「新秩生态」</ZH_TW>
+    <ZH_WENYAN>访「新秩生态」</ZH_WENYAN>
+    <EN_US>Enter The NewOrder Ecosystem</EN_US>
+  </TextBlock>
+<TextBlock id ="474">
+    <ZH_CN>此应用已被管理员禁用</ZH_CN>
+    <ZH_TW>此應用已被管理員禁用</ZH_TW>
+    <ZH_WENYAN>此应用已为司管者禁矣</ZH_WENYAN>
+    <EN_US>This application has been disabled by administrator.</EN_US>
+  </TextBlock>
+<TextBlock id ="475">
+    <ZH_CN>注：「新秩生态」目前仅支持中文</ZH_CN>
+    <ZH_TW>注：「新秩生态」目前僅支援中文</ZH_TW>
+    <ZH_WENYAN>注：「新秩生态」今唯支中文矣</ZH_WENYAN>
+    <EN_US>NOTICE：The NewOrder Ecosystem only supports Chinese at present.</EN_US>
+  </TextBlock>
+<TextBlock id ="476">
+    <ZH_CN>控制台</ZH_CN>
+    <ZH_TW>控制臺</ZH_TW>
+    <ZH_WENYAN>控制台</ZH_WENYAN>
+    <EN_US>Control Console</EN_US>
+  </TextBlock>
 </DocRoot>
