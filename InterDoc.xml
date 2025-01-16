@@ -2274,10 +2274,10 @@
     <EN_US>More actions</EN_US>
   </TextBlock>
 <TextBlock id ="379">
-    <ZH_CN>我想从官网下载更新</ZH_CN>
-    <ZH_TW>我想從官網下載更新</ZH_TW>
-    <ZH_WENYAN>吾愿取更新于官网</ZH_WENYAN>
-    <EN_US>I want to download updates from the official website.</EN_US>
+    <ZH_CN>备用链接</ZH_CN>
+    <ZH_TW>備用鏈接</ZH_TW>
+    <ZH_WENYAN>备用链接</ZH_WENYAN>
+    <EN_US>Backup link</EN_US>
   </TextBlock>
 <TextBlock id ="380">
     <ZH_CN>Taurus UI Camelot 在运行时遇到问题，需要重新启动</ZH_CN>
