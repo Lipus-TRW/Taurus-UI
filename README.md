@@ -30,3 +30,6 @@ LIPUS STUDIO <br/>
       Taurus UI 的内部预览版遵循 CC BY-NC-ND 原则。<br/>
 该版本只供内部测试，未经许可禁止对该版本的任何部分进行修改！<br/>
       详情请访问：https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-hans <br/>
+
+软件介绍：https://lipus-trw.top/taurusui
+下载链接：https://www.123865.com/s/HmTrVv-uKBWh
