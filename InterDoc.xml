@@ -180,10 +180,10 @@
     <EN_US>Sound settings</EN_US>
   </TextBlock>
 <TextBlock id ="30">
-    <ZH_CN>测试声音</ZH_CN>
-    <ZH_TW>測試聲音</ZH_TW>
-    <ZH_WENYAN>试声</ZH_WENYAN>
-    <EN_US>Test the sound</EN_US>
+    <ZH_CN>设置...</ZH_CN>
+    <ZH_TW>設定...</ZH_TW>
+    <ZH_WENYAN>设定...</ZH_WENYAN>
+    <EN_US>Setting...</EN_US>
   </TextBlock>
 <TextBlock id ="31">
     <ZH_CN>从服务器中检查、下载更新</ZH_CN>
@@ -746,7 +746,7 @@
 <TextBlock id ="124">
     <ZH_CN>请在下面填写新的 PIN </ZH_CN>
     <ZH_TW>請在下面填寫新的 PIN </ZH_TW>
-    <ZH_WENYAN>请填写新 PIN于下 </ZH_WENYAN>
+    <ZH_WENYAN>请填写新 PIN 于下 </ZH_WENYAN>
     <EN_US>Please fill in your new PIN below </EN_US>
   </TextBlock>
 <TextBlock id ="125">
@@ -1392,10 +1392,10 @@
     <EN_US>License Terms</EN_US>
   </TextBlock>
 <TextBlock id ="232">
-    <ZH_CN>Beta Preview 版本说明</ZH_CN>
-    <ZH_TW>Beta Preview 版本説明</ZH_TW>
-    <ZH_WENYAN>Beta Preview 版本说明</ZH_WENYAN>
-    <EN_US>Beta Preview Release Notes</EN_US>
+    <ZH_CN>如果你不想通过输入 PIN 来登录系统，可以选择跳过直接登录系统（不推荐）</ZH_CN>
+    <ZH_TW>如果你不想輸入 PIN 來登入系統，可以選擇跳過直接登入系統（不建議）</ZH_TW>
+    <ZH_WENYAN>若不欲以输 PIN 码而入系统，可略过而径入系统（非所宜）</ZH_WENYAN>
+    <EN_US>If you don't want to log in the system by entering PIN, You can choose to skip this step. (Not recommended)</EN_US>
   </TextBlock>
 <TextBlock id ="233">
     <ZH_CN>更换主题样式、修改主题色</ZH_CN>
@@ -2860,5 +2860,35 @@
     <ZH_TW>控制臺</ZH_TW>
     <ZH_WENYAN>控制台</ZH_WENYAN>
     <EN_US>Control Console</EN_US>
+  </TextBlock>
+<TextBlock id ="477">
+    <ZH_CN>跳过 PIN 登入系统</ZH_CN>
+    <ZH_TW>跳過 PIN 登錄系統</ZH_TW>
+    <ZH_WENYAN>越输 PIN 以入系统</ZH_WENYAN>
+    <EN_US>Skip entering PIN to log in the system</EN_US>
+  </TextBlock>
+<TextBlock id ="478">
+    <ZH_CN>开启</ZH_CN>
+    <ZH_TW>開啟</ZH_TW>
+    <ZH_WENYAN>启</ZH_WENYAN>
+    <EN_US>Enable</EN_US>
+  </TextBlock>
+<TextBlock id ="479">
+    <ZH_CN>关闭(默认)</ZH_CN>
+    <ZH_TW>關閉(預設)</ZH_TW>
+    <ZH_WENYAN>闭(默认)</ZH_WENYAN>
+    <EN_US>Disable(Default)</EN_US>
+  </TextBlock>
+<TextBlock id ="480">
+    <ZH_CN>删除图片</ZH_CN>
+    <ZH_TW>刪除圖片</ZH_TW>
+    <ZH_WENYAN>删图</ZH_WENYAN>
+    <EN_US>Delete</EN_US>
+  </TextBlock>
+<TextBlock id ="481">
+    <ZH_CN>点击此按钮以截图！</ZH_CN>
+    <ZH_TW>點擊此按鈕以截圖！</ZH_TW>
+    <ZH_WENYAN>击此扭以截图！</ZH_WENYAN>
+    <EN_US>Click this button to capture the screen !</EN_US>
   </TextBlock>
 </DocRoot>
