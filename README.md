@@ -31,5 +31,8 @@ LIPUS STUDIO <br/>
 该版本只供内部测试，未经许可禁止对该版本的任何部分进行修改！<br/>
       详情请访问：https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-hans <br/>
 
+### 原创信息登记证书
+![](https://preview.cloud.189.cn/image/imageAction?param=BE45BB3F94D35E6CFFB924983DF0874913442DF1C92DA8838444DECC7F55DAE44BFDD42AC492DA2923A649AC5FAF1D6F1787FBED4424D6AFDE54C0D7306A881895763ED5A6A8B760D3640AA55177567933C28362E0EEBD6A99DE6D011099FF6597BB33D6AAD7C0071D6C2FA6F6E65EA537838FB4)
+
 软件介绍：https://lipus-trw.top/taurusui
 下载链接：https://www.123865.com/s/HmTrVv-uKBWh
